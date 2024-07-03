@@ -1,0 +1,14 @@
+site_name: Zephyr's Blog
+site_url: https://Zephyr.cc/
+repo_name: Zephyriiiii/Zephyriiiii.github.io
+repo_url: https://github.com/Zephyriiiii/Zephyriiiii.github.io.git
+site_description: Zephyr的笔记本
+theme:
+  name: material
+markdown_extensions:
+  - admonition
+  - codehilite
+  - footnotes
+  - meta
+  - toc:
+      permalink: true
